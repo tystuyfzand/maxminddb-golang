@@ -5,7 +5,7 @@ import (
 	"log"
 	"net"
 
-	"github.com/oschwald/maxminddb-golang"
+	"github.com/tystuyfzand/maxminddb-golang"
 )
 
 type onlyCountry struct {
